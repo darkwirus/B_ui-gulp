@@ -550,6 +550,10 @@ body._lock {
 }
 
 @media (max-width: 1024px) {
+  .header__list img {
+    display: none;
+  }
+
   .header-content {
     background-size: 350px 350px, cover;
   }
